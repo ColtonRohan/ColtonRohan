@@ -3,7 +3,7 @@
 - I have a passion for web development and love creating projects that change right infront of my eyes
 - I'm highly skilled in technologies such as HTML, CSS, JavaScript, and various frameworks like React
 - I have strong problem-solving skills for approaching bugs and issues with an open mind
-- Contact me on Linkdin - https://www.linkedin.com/in/coltonrohan/
+- Contact me on Linkedin - https://www.linkedin.com/in/coltonrohan/
 
 <!--
 **ColtonRohan/ColtonRohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
